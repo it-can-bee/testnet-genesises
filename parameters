@@ -1,5 +1,5 @@
 ---
-chain_start_timestamp_ms: 1718612543248
+chain_start_timestamp_ms: 1718614201794
 protocol_version: 3
 allow_insertion_of_extra_objects: true
 epoch_duration_ms: 86400000
